@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * 地图 WebSocket 服务
+ * WebSocket 服务
  *
  * @author 张赛超
  * @version 1.0.0
