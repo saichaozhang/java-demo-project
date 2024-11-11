@@ -12,6 +12,7 @@
 
     <modules>
         <module>websocket</module>
+        <module>postgis-mybatis-jts</module>
     </modules>
 
     <parent>
